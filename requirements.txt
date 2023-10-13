@@ -1,0 +1,5 @@
+requests==2.27.1
+selenium==4.14.0
+webdriver_manager==4.0.1
+
+--index-url https://pypi.tuna.tsinghua.edu.cn/simple/
